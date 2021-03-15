@@ -20,7 +20,7 @@ public class MainClass {
         double t_area = (h * b)/2;
         return (int) t_area;
     }
-
+//keejhk
 //hgvhjcjh
 }
 
