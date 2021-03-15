@@ -3,6 +3,7 @@ public class MainClass {
     public MainClass(){
 
     }
+    //inside main class
     public int circle_area(int r){
         double c_area = r * r * 3.14;
         return (int) c_area;
