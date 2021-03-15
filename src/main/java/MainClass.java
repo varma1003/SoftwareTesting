@@ -8,7 +8,7 @@ public class MainClass {
         double c_area = r * r * 3.14;
         return (int) c_area;
     }
-    //hello
+    //varma
     public int rectangle_area(int h, int l){
         double r_area = h * l;
         return (int) r_area;
