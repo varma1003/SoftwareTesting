@@ -12,7 +12,7 @@ public class MainClass {
         double r_area = h * l;
         return (int) r_area;
     }
-//HIiiiii
+//HIiiiiikib
     //Mjjjj
     //kjhbjhj
     public int triangle_area(int h, int b){
